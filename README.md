@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Ayman 👋</h1>
 
-<h3 align="center">Full-Stack Web Developer 💻 | Data Analyst & AI Engineer 🧠 </h3>
+<h3 align="center">Full-Stack Web Developer 💻 | Data & AI Enthusiast 🧠 | ECE Student @ Zagazig University 🎓</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedd-ayman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -82,10 +82,10 @@ class AhmedAyman {
 
 <p align="center">
   <a href="https://github.com/Ahmed40052/zagazig">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmed40052&repo=zagazig&theme=tokyonight" alt="zagazig" />
+    <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmed40052&repo=zagazig&theme=tokyonight&description_lines_count=3&v=3" alt="zagazig" />
   </a>
   <a href="https://github.com/Ahmed40052/Healthcare-Insurance-Analysis">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmed40052&repo=Healthcare-Insurance-Analysis&theme=tokyonight" alt="Healthcare-Insurance-Analysis" />
+    <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=Ahmed40052&repo=Healthcare-Insurance-Analysis&theme=tokyonight&description_lines_count=3&v=3" alt="Healthcare-Insurance-Analysis" />
   </a>
 </p>
 
@@ -104,7 +104,4 @@ class AhmedAyman {
 
 > "Learn it, build it, then make it better."
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
-</p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" /> </p>

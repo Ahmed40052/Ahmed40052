@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Ayman 👋</h1>
 
-<h3 align="center">Full-Stack Web Developer 💻 | Data & AI Enthusiast 🧠 | ECE Student @ Zagazig University 🎓</h3>
+<h3 align="center">Full-Stack Web Developer 💻 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedd-ayman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
